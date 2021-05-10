@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Projects on Sarthak Johnson Prasad</title>
-    <link>https://examplesite.com/portfolio/</link>
+    <link>https://cipherLord.github.io/portfolio/</link>
     <description>Recent content in Projects on Sarthak Johnson Prasad</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>Copyright &amp;copy; 2020 a hugo theme by [somrat](https://somrat.netlify.com)</copyright><atom:link href="https://examplesite.com/portfolio/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>Copyright &amp;copy; 2020 a hugo theme by [somrat](https://somrat.netlify.com)</copyright><atom:link href="https://cipherLord.github.io/portfolio/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Listen To This KGP!</title>
-      <link>https://examplesite.com/portfolio/lttkgp/</link>
+      <link>https://cipherLord.github.io/portfolio/lttkgp/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://examplesite.com/portfolio/lttkgp/</guid>
+      <guid>https://cipherLord.github.io/portfolio/lttkgp/</guid>
       <description>A web music player made with Python and ❤️. Acts as a client and music player to a music group on Facebook - Listen To This KGP!</description>
     </item>
     
